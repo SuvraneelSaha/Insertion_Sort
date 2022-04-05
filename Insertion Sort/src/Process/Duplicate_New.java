@@ -40,4 +40,18 @@ public class Duplicate_New {
 
 
     }
+    // WE are using hash set for this approach
+    // Steps
+    // 1] we are creating a new hash set
+    // 2] we are using a for each loop
+    // to traverse over every element present in the array
+    // condition checking
+    // 3] if the set contains the element n then true
+    // 4] else it will add it in the set
+    // 5 ] if the total no. of elements are over then
+    // it will return false
+
+
+
+
 }

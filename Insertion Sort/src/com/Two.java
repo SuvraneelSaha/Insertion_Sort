@@ -45,7 +45,7 @@ public class Two {
         3] CONDTIION FOR SWAPPING -- ARR[J] < ARR[J-1] --> SWAP
         4] IF CONDITION IS FALSE THEN BREAK THE INNER FOR LOOP
         5] WHEN SWAPPING IS DONE --> SORTING DONE
-        
+
 
 
 

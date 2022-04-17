@@ -17,7 +17,7 @@ public class Two {
 
         5] the condition for the swapping
 
-        6] if(arr[j]< arr[j-1])
+        6] if(arr[j]< arr[j-1]) then swap
 
         if the element at the right side is lesser than the element at the left side then swapping will take place
 
@@ -40,7 +40,7 @@ public class Two {
         --> cause if it runs till n-1 then the value of j will be N which will be out of bounds
 
         SO GIST
-        1] FOR LOOP FROM 0 TILL N-2
+        1] the outer FOR LOOP FROM 0 TILL N-2
         2] INNER FOR LOOP FROM J=I+1 TILL J>0 J--
         3] CONDTIION FOR SWAPPING -- ARR[J] < ARR[J-1] --> SWAP
         4] IF CONDITION IS FALSE THEN BREAK THE INNER FOR LOOP
